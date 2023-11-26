@@ -1,0 +1,32 @@
+[
+  {
+    "id" : 995,
+    "name" :"Samsung Galaxy A14",
+    "img" : "../src/Image/Samsung/galaxy-a14.jpg"
+  },
+  {
+    "id": 996,
+    "name": "Samsung Galaxy A14",
+    "img": "../src/Image/Samsung/galaxy-a14.jpg"
+  },
+  {
+    "id": 997,
+    "name": "Samsung Galaxy A54",
+    "img": "../src/Image/Samsung/galaxy-a54.jpg"
+  },
+  {
+    "id": 998,
+    "name": "Samsung Galaxy S23 Ultra",
+    "img": "../src/Image/Samsung/galaxy-s23.jpg"
+  },
+  {
+    "id": 999,
+    "name": "Samsung Galaxy S23FE",
+    "img": "../src/Image/Samsung/galaxy-s23FE.jpg"
+  },
+  {
+    "id": 1000,
+    "name": "Samsung Galaxy S23 Plus",
+    "img": "../src/Image/Samsung/galaxy-s23Plus.jpg"
+  }
+]

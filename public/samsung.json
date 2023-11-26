@@ -1,0 +1,12 @@
+[
+    {
+        "id" : 995,
+        "name" :"Samsung Galaxy A14",
+        "img" : "../src/Image/Samsung/galaxy-a14.jpg"
+      },
+      {
+        "id": 996,
+        "name": "Samsung Galaxy A14",
+        "img": "../src/Image/Samsung/galaxy-a14.jpg"
+      }
+]
